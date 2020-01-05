@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+          android:icon="@mipmap/ic_home"
+          android:title="Home"
+          android:onClick="homeInit">
+    </item>
+    <item android:id="@+id/events"
+          android:icon="@mipmap/ic_calendar_today"
+          android:title="Events/Calendar"
+          android:onClick="calendarInit">
+    </item>
+    <item android:id="@+id/contribute"
+          android:icon="@mipmap/ic_attach_money"
+          android:title="Contribute"
+          android:onClick="donateInit">
+    </item>
+    <item android:id="@+id/about"
+          android:icon="@mipmap/ic_priority_high"
+          android:title="About"
+          android:onClick="aboutInit">
+    </item>
+    <!--<item android:id="@+id/setting"-->
+          <!--android:icon="@mipmap/ic_settings"-->
+          <!--android:title="Setting">-->
+    <!--</item>-->
+
+</menu>

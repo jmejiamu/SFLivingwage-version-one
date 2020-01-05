@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SF Living Wage Coalition</string>
+    <string name="SanFrancisco">San Francisco</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="Logo">Logo</string>
+    <string name="play">PLAY</string>
+    <string name="about">About Us</string>
+    <!--<string name="aboutText">-->
+        <!--The Living Wage Coalition is a low-wage worker advocacy organization fighting for economic justice .-->
+        <!--<br></br>-->
+
+        <!--We are actively campaigning to reverse income inequality and wage disparity.-->
+        <!--We are advancing local campaigns and projects that can be models for policies-->
+        <!--to address the fundamental causes of income inequality.-->
+        <!--<br></br>-->
+
+        <!--The Living Wage Coalition was initiated in 1998 by labor unions, community-->
+        <!--organizations and religious congregations to develop a movement led and-->
+        <!--democratically run by low-wage workers.-->
+    <!--</string>-->
+    <string name="donate">donate</string>
+    <string name="paypal">PAYPAL</string>
+    <string name="button">PLAY</string>
+    <string name="todo">TODO</string>
+    <string name="calendar_events">Calendar/ Events</string>
+    <string name="donation">Donation</string>
+</resources>
